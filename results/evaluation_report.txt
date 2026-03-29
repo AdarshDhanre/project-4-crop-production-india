@@ -1,0 +1,23 @@
+
+============================================================
+Linear Regression - EVALUATION REPORT
+============================================================
+
+PERFORMANCE METRICS:
+------------------------------------------------------------
+MSE                 : 0.0019
+RMSE                : 0.0439
+MAE                 : 0.0396
+MAPE                : 0.0784
+R²                  : 0.0000
+Adjusted R²         : -0.2000
+
+------------------------------------------------------------
+
+INTERPRETATION:
+- R² Score: 0.0000 (Explained variance: 0.00%)
+- RMSE: 0.0439 (Root Mean Squared Error)
+- MAE: 0.0396 (Mean Absolute Error)
+- MAPE: 0.0784 (Mean Absolute Percentage Error)
+
+============================================================

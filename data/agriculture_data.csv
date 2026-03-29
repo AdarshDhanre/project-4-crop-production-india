@@ -1,0 +1,50 @@
+Crop,Variety,State,Quantity,Production,Season,Unit,Cost,Recommended Zone
+ARHAR,Generic,Uttar Pradesh,122.2,119.9,Medium,Tons,1941.55,General
+ARHAR,Generic,Karnataka,122.2,119.9,Medium,Tons,2172.46,General
+ARHAR,Generic,Gujarat,122.2,119.9,Medium,Tons,1898.3,General
+ARHAR,Generic,Andhra Pradesh,122.2,119.9,Medium,Tons,3670.54,General
+ARHAR,Generic,Maharashtra,122.2,119.9,Medium,Tons,2775.8,General
+COTTON,CNH012,Maharashtra,135.2,182.5,165,Tons,2539.47,"Gujarat, Maharashtra and Madhya Pradesh."
+COTTON,CNH012,Punjab,135.2,182.5,165,Tons,2003.76,"Gujarat, Maharashtra and Madhya Pradesh."
+COTTON,CNH012,Andhra Pradesh,135.2,182.5,165,Tons,2509.99,"Gujarat, Maharashtra and Madhya Pradesh."
+COTTON,CNH012,Gujarat,135.2,182.5,165,Tons,2179.26,"Gujarat, Maharashtra and Madhya Pradesh."
+COTTON,CNH012,Haryana,135.2,182.5,165,Tons,2127.35,"Gujarat, Maharashtra and Madhya Pradesh."
+GRAM,Generic,Rajasthan,149.9,182.5,Medium,Tons,1691.66,General
+GRAM,Generic,Madhya Pradesh,149.9,182.5,Medium,Tons,1551.94,General
+GRAM,Generic,Uttar Pradesh,149.9,182.5,Medium,Tons,1882.68,General
+GRAM,Generic,Maharashtra,149.9,182.5,Medium,Tons,2277.68,General
+GRAM,Generic,Andhra Pradesh,149.9,182.5,Medium,Tons,1559.04,General
+GROUNDNUT,Girnar - 3 (PBS 12160),Karnataka,129.5,195.7,108,Tons,3484.01,"West Bengal, Orissa and Manipur under Kharif rainfed condition."
+GROUNDNUT,Girnar - 3 (PBS 12160),Andhra Pradesh,129.5,195.7,108,Tons,2554.91,"West Bengal, Orissa and Manipur under Kharif rainfed condition."
+GROUNDNUT,Girnar - 3 (PBS 12160),Tamil Nadu,129.5,195.7,108,Tons,2358.0,"West Bengal, Orissa and Manipur under Kharif rainfed condition."
+GROUNDNUT,Girnar - 3 (PBS 12160),Gujarat,129.5,195.7,108,Tons,1918.92,"West Bengal, Orissa and Manipur under Kharif rainfed condition."
+GROUNDNUT,Girnar - 3 (PBS 12160),Maharashtra,129.5,195.7,108,Tons,3207.35,"West Bengal, Orissa and Manipur under Kharif rainfed condition."
+MAIZE,HSC1,Bihar,169.1,286.0,80-82,Tons,404.43,Himachal Pradesh and Uttarakhand under Kharif season.
+MAIZE,HSC1,Karnataka,169.1,286.0,80-82,Tons,581.69,Himachal Pradesh and Uttarakhand under Kharif season.
+MAIZE,HSC1,Rajasthan,169.1,286.0,80-82,Tons,658.77,Himachal Pradesh and Uttarakhand under Kharif season.
+MAIZE,HSC1,Uttar Pradesh,169.1,286.0,80-82,Tons,1387.36,Himachal Pradesh and Uttarakhand under Kharif season.
+MAIZE,HSC1,Andhra Pradesh,169.1,286.0,80-82,Tons,840.58,Himachal Pradesh and Uttarakhand under Kharif season.
+MOONG,Generic,Orissa,135.2,182.5,Medium,Tons,2614.14,General
+MOONG,Generic,Rajasthan,135.2,182.5,Medium,Tons,2068.67,General
+MOONG,Generic,Karnataka,135.2,182.5,Medium,Tons,5777.48,General
+MOONG,Generic,Andhra Pradesh,135.2,182.5,Medium,Tons,2228.97,General
+MOONG,Generic,Maharashtra,135.2,182.5,Medium,Tons,2261.24,General
+PADDY,Chinsurah Rice (IET 19140),Uttar Pradesh,135.2,182.5,Medium,Tons,732.62,"Andhra Pradesh, Tamil Nadu, Gujarat, Orissa, and West Bengal under irrigated conditions. "
+PADDY,Chinsurah Rice (IET 19140),Orissa,135.2,182.5,Medium,Tons,715.04,"Andhra Pradesh, Tamil Nadu, Gujarat, Orissa, and West Bengal under irrigated conditions. "
+PADDY,Chinsurah Rice (IET 19140),West Bengal,135.2,182.5,Medium,Tons,731.25,"Andhra Pradesh, Tamil Nadu, Gujarat, Orissa, and West Bengal under irrigated conditions. "
+PADDY,Chinsurah Rice (IET 19140),Punjab,135.2,182.5,Medium,Tons,669.86,"Andhra Pradesh, Tamil Nadu, Gujarat, Orissa, and West Bengal under irrigated conditions. "
+PADDY,Chinsurah Rice (IET 19140),Andhra Pradesh,135.2,182.5,Medium,Tons,789.9,"Andhra Pradesh, Tamil Nadu, Gujarat, Orissa, and West Bengal under irrigated conditions. "
+RAPESEED AND MUSTARD,Generic,Madhya Pradesh,135.2,182.5,Medium,Tons,1279.6,General
+RAPESEED AND MUSTARD,Generic,Rajasthan,135.2,182.5,Medium,Tons,1341.29,General
+RAPESEED AND MUSTARD,Generic,Uttar Pradesh,135.2,182.5,Medium,Tons,1595.56,General
+RAPESEED AND MUSTARD,Generic,Gujarat,135.2,182.5,Medium,Tons,1610.4,General
+RAPESEED AND MUSTARD,Generic,Haryana,135.2,182.5,Medium,Tons,1251.12,General
+SUGARCANE,Karan 6 (Co 0239),Uttar Pradesh,135.2,144.3,Medium,Tons,93.64,"Punjab, Haryana, Rajasthan, Uttarakhand, Central and Western Uttar Pradesh."
+SUGARCANE,Karan 6 (Co 0239),Karnataka,135.2,144.3,Medium,Tons,86.53,"Punjab, Haryana, Rajasthan, Uttarakhand, Central and Western Uttar Pradesh."
+SUGARCANE,Karan 6 (Co 0239),Andhra Pradesh,135.2,144.3,Medium,Tons,119.72,"Punjab, Haryana, Rajasthan, Uttarakhand, Central and Western Uttar Pradesh."
+SUGARCANE,Karan 6 (Co 0239),Maharashtra,135.2,144.3,Medium,Tons,107.56,"Punjab, Haryana, Rajasthan, Uttarakhand, Central and Western Uttar Pradesh."
+SUGARCANE,Karan 6 (Co 0239),Tamil Nadu,135.2,144.3,Medium,Tons,85.79,"Punjab, Haryana, Rajasthan, Uttarakhand, Central and Western Uttar Pradesh."
+WHEAT,MPO(JW)  1215 (MPO 1215),Madhya Pradesh,119.5,150.8,120,Tons,810.25,"Madhya Pradesh, Chhattisgarh, Gujarat and Rajasthan (Kota and Udaipur Division only) under timely sown irrigated condition."
+WHEAT,MPO(JW)  1215 (MPO 1215),Punjab,119.5,150.8,120,Tons,804.8,"Madhya Pradesh, Chhattisgarh, Gujarat and Rajasthan (Kota and Udaipur Division only) under timely sown irrigated condition."
+WHEAT,MPO(JW)  1215 (MPO 1215),Uttar Pradesh,119.5,150.8,120,Tons,769.84,"Madhya Pradesh, Chhattisgarh, Gujarat and Rajasthan (Kota and Udaipur Division only) under timely sown irrigated condition."
+WHEAT,MPO(JW)  1215 (MPO 1215),Rajasthan,119.5,150.8,120,Tons,683.58,"Madhya Pradesh, Chhattisgarh, Gujarat and Rajasthan (Kota and Udaipur Division only) under timely sown irrigated condition."
